@@ -36,16 +36,6 @@
 
 ### 🌐 Conectemos
 
-<p align="left">
-  <a href="https://stlabs.ar" target="_blank">
-    <img src="https://img.shields.io/badge/Web-STLabs.ar-007acc?style=flat-square&logo=firefox&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/ing-sergio-sebastian-garcia/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Sergio%20Sebastián%20García-007acc?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
-
 - 📬 **sgarcia@stlabs.ar**
 - 🌐 [stlabs.ar](https://stlabs.ar)
 - 💼 [LinkedIn](https://www.linkedin.com/in/ing-sergio-sebastian-garcia/)
