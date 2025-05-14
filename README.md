@@ -37,7 +37,7 @@
 
 - 📬 **sgarcia@stlabs.ar**
 - 🌐 [stlabs.ar](https://stlabs.ar)
-- 💼 [LinkedIn](https://www.linkedin.com/in/sergio-sebastian-garcia/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ing-sergio-sebastian-garcia/)
 - 💡 ¿Charlamos sobre proyectos? ¡Estoy abierto a colaboraciones!
 
 ---
