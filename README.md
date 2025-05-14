@@ -1,16 +1,46 @@
-## Hi there 👋
+<h1 align="center">Hola 👋, soy Sergio Sebastián García</h1>
+<h3 align="center">Ingeniero en Informática | Founder de STLabs | Apasionado por la tecnología, la IA y el código limpio</h3>
 
-<!--
-**Sergio726/Sergio726** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧑‍💻 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Graduado en **UCASAL** – Ingeniería en Informática  
+- 🏢 Actualmente dirijo **[STLabs.ar](https://stlabs.ar)**, una empresa de desarrollo de software con base en Salta, Argentina
+- 💡 Me apasiona construir soluciones robustas, escalables y aplicar IA en productos reales
+- 🔭 En mis proyectos uso: `.NET`, `SQL Server`, `JavaScript`, `NestJS`, `Docker`, `Git` y más
+- 🌱 Aprendiendo constantemente nuevas tecnologías y buenas prácticas
+- 🤝 Me encanta colaborar con equipos, liderar proyectos y compartir conocimiento
+
+---
+
+### 🛠️ Tecnologías & Herramientas
+
+![.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
+![C#](https://img.shields.io/badge/-CSharp-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+### 📈 Estadísticas
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sergiogarcia&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiogarcia&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### 🌐 Contacto
+
+- 📬 **sgarcia@stlabs.ar**
+- 🌐 [stlabs.ar](https://stlabs.ar)
+- 💼 [LinkedIn](https://www.linkedin.com/in/sergio-sebastian-garcia/)
+- 💡 ¿Charlamos sobre proyectos? ¡Estoy abierto a colaboraciones!
+
+---
+
+> 💬 “El mejor código es el que no solo funciona, sino que todos entienden.”
+
