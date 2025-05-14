@@ -7,10 +7,11 @@
 
 - 🎓 Graduado en **UCASAL** – Ingeniería en Informática  
 - 🏢 Actualmente dirijo **[STLabs.ar](https://stlabs.ar)**, una empresa de desarrollo de software con base en Salta, Argentina
-- 💡 Me apasiona construir soluciones robustas, escalables y aplicar IA en productos reales
-- 🔭 En mis proyectos uso: `.NET`, `SQL Server`, `JavaScript`, `NestJS`, `Docker`, `Git` y más
+- 💡 Me apasiona construir soluciones robustas, escalables y aplicar en productos reales. 
+- 🛠️ Stack favorito: **.NET**, **SQL Server**, **Docker**, **Git**, **PowerShell**.
+- 🚀 Actualmente explorando **DevOps**, **arquitectura limpia**, y **automatización CI/CD**.
 - 🌱 Aprendiendo constantemente nuevas tecnologías y buenas prácticas
-- 🤝 Me encanta colaborar con equipos, liderar proyectos y compartir conocimiento
+- 🤝 Me encanta colaborar con equipos, liderar proyectos, compartir conocimiento y contribuir en el desarrollo de negocios sustentables
 
 ---
 
@@ -33,7 +34,17 @@
 
 ---
 
-### 🌐 Contacto
+### 🌐 Conectemos
+
+<p align="left">
+  <a href="https://stlabs.ar" target="_blank">
+    <img src="https://img.shields.io/badge/Web-STLabs.ar-007acc?style=flat-square&logo=firefox&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ing-sergio-sebastian-garcia/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Sergio%20Sebastián%20García-007acc?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
 
 - 📬 **sgarcia@stlabs.ar**
 - 🌐 [stlabs.ar](https://stlabs.ar)
